@@ -1,4 +1,5 @@
 # PRA
 Probabilistic risk assessment using L-moments.
-//
-In this, surrogate modelling, PRA analysis and visualization codes are attached 
+
+![image](https://user-images.githubusercontent.com/64420389/226306620-dbd11f14-acc8-4030-bd68-46c6b359587f.png)
+
